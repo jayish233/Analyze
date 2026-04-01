@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/cron/daily-report/route": "/api/cron/daily-report",
+  "/api/insights/route": "/api/insights",
+  "/api/keywords/route": "/api/keywords",
+  "/api/search/route": "/api/search",
+  "/api/videos/route": "/api/videos",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
